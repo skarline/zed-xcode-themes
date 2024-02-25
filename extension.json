@@ -1,0 +1,7 @@
+{
+  "name": "Xcode Themes",
+  "version": "1.0.0",
+  "authors": ["Lihuen Molina <lihue.molina@gmail.com>"],
+  "description": "A port of Xcode's default themes to Zed",
+  "repository": "https://github.com/skarline/zed-xcode-themes"
+}
