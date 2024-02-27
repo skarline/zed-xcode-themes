@@ -4,6 +4,7 @@ A port of Xcode's default themes to the Zed code editor. These themes are design
 
 ![Screenshot](previews/light.png)
 ![Screenshot](previews/dark.png)
+![Screenshot](previews/contrast-dark.png)
 
 ## Contributing
 
