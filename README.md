@@ -1,6 +1,6 @@
 # Zed Xcode Themes
 
-A port of Xcode's default themes to [Zed](https://zed.dev/).
+A port of Xcode's default themes to [Zed](https://zed.dev/)
 
 ![Screenshot](assets/preview.png)
 
