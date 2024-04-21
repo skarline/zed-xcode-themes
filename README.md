@@ -1,6 +1,6 @@
-# Zed Xcode Themes
+# 🍎 Zed Xcode Themes
 
-A port of Xcode's default themes to [Zed](https://zed.dev/)
+Recreate Xcode's native feel in [Zed](https://zed.dev/) with authentic themes for a seamless, Apple-inspired coding environment.
 
 ![Screenshot](assets/preview.png)
 
