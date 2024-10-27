@@ -1,83 +1,20 @@
-# 🍎 Zed Xcode Themes
+<h3 align="center">
+	<img src="assets/logo.png" width="100" alt="Logo"/><br/>
+	Xcode Themes for <a href="https://zed.dev/">Zed</a>
+</h3>
 
-Recreate Xcode's native feel in [Zed](https://zed.dev/) with authentic themes for a seamless, Apple-inspired coding environment.
+<p align="center">
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/skarline/zed-xcode-themes?style=flat-">
+<img alt="Dynamic JSON Badge" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.zed.dev%2Fextensions%3Fmax_schema_version%3D1%26filter%3DXcode%2BThemes&query=%24.data%5B%3A1%5D.download_count&style=flat-&label=downloads">
+<img alt="GitHub Issues or Pull Requests" src="https://img.shields.io/github/issues/skarline/zed-xcode-themes?style=flat-">
+</p>
+
+<p align="center">
+Recreate Xcode's native feel in Zed with authentic themes for a seamless, Apple-inspired coding environment.
+</p>
 
 ![Screenshot](assets/preview.png)
 
-## Themes
-
-These themes are designed to be as close to the original Xcode themes as possible, with some minor adjustments to make them look better in Zed.
-
-<details>
-<summary>Classic Dark</summary>
-<img src="assets/classic_dark.png" />
-</details>
-
-<details>
-<summary>Default Dark</summary>
-<img src="assets/default_dark.png" />
-</details>
-
-<details>
-<summary>High Contrast Dark</summary>
-<img src="assets/high_contrast_dark.png" />
-</details>
-
-<details>
-<summary>Midnight</summary>
-<img src="assets/midnight.png" />
-</details>
-
-<details>
-<summary>Presentation Dark</summary>
-<img src="assets/presentation_dark.png" />
-</details>
-
-<details>
-<summary>Bare</summary>
-<img src="assets/bare.png" />
-</details>
-
-<details>
-<summary>Basic</summary>
-<img src="assets/basic.png" />
-</details>
-
-<details>
-<summary>Classic Light</summary>
-<img src="assets/classic_light.png" />
-</details>
-
-<details>
-<summary>Default Light</summary>
-<img src="assets/default_light.png" />
-</details>
-
-<details>
-<summary>High Contrast Light</summary>
-<img src="assets/high_contrast_light.png" />
-</details>
-
-<details>
-<summary>Low Key</summary>
-<img src="assets/low_key.png" />
-</details>
-
-<details>
-<summary>Presentation Light</summary>
-<img src="assets/presentation_light.png" />
-</details>
-
-<details>
-<summary>Spartan</summary>
-<img src="assets/spartan.png" />
-</details>
-
-<details>
-<summary>Sunset</summary>
-<img src="assets/sunset.png" />
-</details>
-
 ## Contributing
 
-If you find any issues with the themes, or have any suggestions for improvements, please open an issue or a pull request.
+If you find any issues with the themes, or have any suggestions for improvements, feel free to open an issue.
