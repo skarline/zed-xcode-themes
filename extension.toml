@@ -1,0 +1,7 @@
+id = "xcode-themes"
+name = "Xcode Themes"
+version = "2.0.0"
+schema_version = 1
+authors = ["Lihuen Molina <lihue.molina@gmail.com>"]
+description = "🍎 Recreate Xcode's native feel in Zed with authentic themes for a seamless, Apple-inspired coding environment."
+repository = "https://github.com/skarline/zed-xcode-themes"
