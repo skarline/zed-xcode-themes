@@ -372,7 +372,7 @@
             "font_weight": 500
           },
           "string.doc": {
-            "color": "#000000ff",
+            "color": "#ff52a9ff",
             "background_color": null,
             "font_style": "normal",
             "font_weight": 500
@@ -846,7 +846,7 @@
             "font_weight": 500
           },
           "string.doc": {
-            "color": "#000000ff",
+            "color": "#b4261aff",
             "background_color": null,
             "font_style": "normal",
             "font_weight": 500
@@ -1320,7 +1320,7 @@
             "font_weight": 500
           },
           "string.doc": {
-            "color": "#e7e8ebff",
+            "color": "#de3a3cff",
             "background_color": null,
             "font_style": "normal",
             "font_weight": 500
@@ -1794,7 +1794,7 @@
             "font_weight": 500
           },
           "string.doc": {
-            "color": "#ffffffd9",
+            "color": "#ff8170ff",
             "background_color": null,
             "font_style": "normal",
             "font_weight": 500
@@ -2268,7 +2268,7 @@
             "font_weight": 500
           },
           "string.doc": {
-            "color": "#ffffffd9",
+            "color": "#ff8170ff",
             "background_color": null,
             "font_style": "normal",
             "font_weight": 500
@@ -2742,7 +2742,7 @@
             "font_weight": 500
           },
           "string.doc": {
-            "color": "#000000d9",
+            "color": "#d12f1bff",
             "background_color": null,
             "font_style": "normal",
             "font_weight": 500
@@ -3216,7 +3216,7 @@
             "font_weight": 500
           },
           "string.doc": {
-            "color": "#ffffffd9",
+            "color": "#ff8170ff",
             "background_color": null,
             "font_style": "normal",
             "font_weight": 500
@@ -3690,7 +3690,7 @@
             "font_weight": 500
           },
           "string.doc": {
-            "color": "#ffffffd9",
+            "color": "#ff8170ff",
             "background_color": null,
             "font_style": "normal",
             "font_weight": 500
@@ -4164,7 +4164,7 @@
             "font_weight": 500
           },
           "string.doc": {
-            "color": "#000000d9",
+            "color": "#d12f1bff",
             "background_color": null,
             "font_style": "normal",
             "font_weight": 500
@@ -4638,7 +4638,7 @@
             "font_weight": 500
           },
           "string.doc": {
-            "color": "#ffffffff",
+            "color": "#e44347ff",
             "background_color": null,
             "font_style": "normal",
             "font_weight": 500
@@ -5112,7 +5112,7 @@
             "font_weight": 500
           },
           "string.doc": {
-            "color": "#ffffffff",
+            "color": "#ff8a7aff",
             "background_color": null,
             "font_style": "normal",
             "font_weight": 500
@@ -5586,7 +5586,7 @@
             "font_weight": 500
           },
           "string.doc": {
-            "color": "#ffffffff",
+            "color": "#ff8a7aff",
             "background_color": null,
             "font_style": "normal",
             "font_weight": 500
@@ -6060,7 +6060,7 @@
             "font_weight": 500
           },
           "string.doc": {
-            "color": "#000000ff",
+            "color": "#ad1705ff",
             "background_color": null,
             "font_style": "normal",
             "font_weight": 500
@@ -6534,7 +6534,7 @@
             "font_weight": 500
           },
           "string.doc": {
-            "color": "#000000ff",
+            "color": "#853e64ff",
             "background_color": null,
             "font_style": "normal",
             "font_weight": 500
@@ -7008,7 +7008,7 @@
             "font_weight": 500
           },
           "string.doc": {
-            "color": "#ffffffff",
+            "color": "#ff4647ff",
             "background_color": null,
             "font_style": "normal",
             "font_weight": 500
@@ -7482,7 +7482,7 @@
             "font_weight": 500
           },
           "string.doc": {
-            "color": "#ffffffff",
+            "color": "#ff5f63ff",
             "background_color": null,
             "font_style": "normal",
             "font_weight": 500
@@ -7956,7 +7956,7 @@
             "font_weight": 500
           },
           "string.doc": {
-            "color": "#ffffffff",
+            "color": "#ff5f63ff",
             "background_color": null,
             "font_style": "normal",
             "font_weight": 500
@@ -8430,7 +8430,7 @@
             "font_weight": 500
           },
           "string.doc": {
-            "color": "#000000ff",
+            "color": "#c91b13ff",
             "background_color": null,
             "font_style": "normal",
             "font_weight": 500
@@ -8904,7 +8904,7 @@
             "font_weight": 500
           },
           "string.doc": {
-            "color": "#000000ff",
+            "color": "#797979ff",
             "background_color": null,
             "font_style": "normal",
             "font_weight": 500
@@ -9378,7 +9378,7 @@
             "font_weight": 500
           },
           "string.doc": {
-            "color": "#000000ff",
+            "color": "#e82300ff",
             "background_color": null,
             "font_style": "normal",
             "font_weight": 500
